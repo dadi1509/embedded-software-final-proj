@@ -1,1 +1,24 @@
+Author: Daniel Diaz Reyes
+Date: 4/3/2026
+ECEN 2270 - CU Boulder
 
+- Week 1:
+  - Develop GitHub repository for final project (version control)
+  - Develop implementation for button control
+    * Button control interrupt 
+    * Tick counter to understand how much time button has been held
+  - Develop process flow diagram for inter task communication 
+- Week 2: 
+  - Develop LCD game updates implementation (basic blocks) (4/7/26)
+    * 4 Boats should pop up in a gray color 
+    * Everything else around the boats should be blue 
+  - Develop LCD touch screen implementation (4/9/26) 
+    * Remember, coordinates are flipped
+    * Have this touch screen task, be followed by the update game task 
+- Week 3: 
+  - Develop RNG for "AI" and boat mapping (4/14/26)
+    * Use RNG to create random numbers and random boat placement 
+  - Implement 2 player mode (4/14/26)
+    * Essentially just an option at the beginning of the program 
+  - Begin EC Tasks?? (4/16/26)
+    * yippeeeee
